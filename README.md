@@ -1,5 +1,5 @@
 ## Different Shader using WebGL
-As part of a Computer Graphics course at TU Berlin
+Different shader including a simple ambient shading, normal shading, toon shading (cel shading), gouraud shading, lambertian shading and cook-torrance-shading.
 
 ## Requirements
 
